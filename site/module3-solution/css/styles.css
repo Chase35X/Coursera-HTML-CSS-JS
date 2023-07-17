@@ -1,1 +1,32 @@
+nav {
+    background-color: gray;
+}
 
+.navbar-brand{
+    padding: 50px 0px 50px 20px;
+    font-size: 35px;
+}
+
+.row {
+    background-color: gray;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+p {
+    font-size: 16px;
+}
+
+#navbar {
+    padding-top: 100px;
+    text-align: center;
+}
+
+.menu-item {
+    border: 3px solid black;
+    background-color: rgb(235, 214, 214);
+    color: black;
+    margin: 5px 5px 5px 5px;
+}
