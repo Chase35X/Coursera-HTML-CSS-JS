@@ -24,4 +24,4 @@ var speakWord = "Good Bye";
 // 'byeSpeaker' on the global scope as well.
 window.byeSpeaker = byeSpeaker;
 
-})();
+})(window);
